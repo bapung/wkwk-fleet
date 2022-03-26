@@ -1,0 +1,4 @@
+resources:
+- ../../../../base/infrastructure/nginx
+patches:
+- nginx-patch.yaml

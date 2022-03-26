@@ -1,0 +1,5 @@
+helmCharts:
+- name: traefik
+  repo: https://helm.traefik.io/traefik
+  version: v10.4.0
+  releaseName: traefik
