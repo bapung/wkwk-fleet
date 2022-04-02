@@ -1,0 +1,2 @@
+resources:
+- ../../../../base/infrastructure/prometheus-operator-crd
