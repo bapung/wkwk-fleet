@@ -1,2 +1,3 @@
 resources:
 - ../../../../base/infrastructure/prometheus-operator
+- quota.yaml
